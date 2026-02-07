@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/quickstart",
+	"sourceRoot": "D:/Gitee/my_local_hugo/quickstart",
 	"sources": [
 		"ananke/css/main.css"
 	],
